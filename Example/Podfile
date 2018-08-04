@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YYCPopupView_Example' do
+  pod 'YYCPopupView', :path => '../'
+
+  target 'YYCPopupView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
