@@ -1,0 +1,6 @@
+framework module Pods_YYCPopupView_Tests {
+  umbrella header "Pods-YYCPopupView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - YYCPopupView (0.1.0):
+    - Masonry (~> 1.0)
+
+DEPENDENCIES:
+  - YYCPopupView (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  YYCPopupView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  YYCPopupView: ecd5cd460e601bb4c48523c7c170c826c34985bd
+
+PODFILE CHECKSUM: 7991ab4fcb29c716fe2e13e49ecc5f44421984e4
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module YYCPopupView {
+  umbrella header "YYCPopupView-umbrella.h"
+
+  export *
+  module * { export * }
+}
